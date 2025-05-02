@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
 
 ### A few highlights:
-- 4+ years of experience in software development
+- 5+ years of experience in software development
 - I’m currently working with Android, Kotlin,Jetpack Compose, Java, Graphql, ROOM, and firebase.
 - I’m always learning to keep myself updated with latest tech.
 - Experience with blogging, content writing, research, and marketing
