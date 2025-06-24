@@ -61,7 +61,7 @@ You can use the website to generate badges: https://shields.io/
 
 ### Github Summary:
 
-![](https://github-readme-stats.vercel.app/api?username=SidDhaRth-cell-android&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sidcasmm&show_icons=true)
 
 <!--  <hr>
 <p align="center">
