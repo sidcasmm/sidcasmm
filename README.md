@@ -1,5 +1,5 @@
 <!-- Your title -->
-## I'm Siddharth, and this page tells a little about me.
+## I'm Siddharth, and this page tells a bit about me.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
