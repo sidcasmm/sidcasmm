@@ -10,8 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:siddharth.singh78650@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@sidcasm)
 
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://encryptsoul.com/) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shahzadafridia1) -->
 &nbsp;
 
 <h2 align="center"> 👨‍💻 About Me</h2>
@@ -63,30 +61,6 @@ You can use the website to generate badges: https://shields.io/
 ### Github Summary:
 
 ![](https://github-readme-stats.vercel.app/api?username=sidcasmm&show_icons=true)
-
-<!--  <hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br> -->
 <br>
 
 </p>
-
-<!-- ### Hi there 👋
-
-<!--
-**SyedAbdullahHashmi/SyedAbdullahHashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
