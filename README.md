@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 - Skilled in working with both Agile and Waterfall methodologies
 - Strong analytical and communication skills
 - Committed to delivering the best possible user experience in all of my projects
-- How to reach me: siddharth.singh78650@gmail.com
+- How to reach me: siddharth.s2000@outlook.com
   
 <hr>
 
